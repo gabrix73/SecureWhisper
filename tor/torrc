@@ -1,0 +1,5 @@
+SocksPort 127.0.0.1:9052
+ControlPort 127.0.0.1:9053
+DataDirectory /home/runner/workspace/tor/data
+HiddenServiceDir /home/runner/workspace/tor/hidden_service
+HiddenServicePort 12345 127.0.0.1:12345

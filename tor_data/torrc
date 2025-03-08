@@ -1,0 +1,13 @@
+SocksPort 127.0.0.1:9052
+ControlPort 127.0.0.1:9053
+DataDirectory /home/runner/workspace/tor_data/data
+HiddenServiceDir /home/runner/workspace/tor_data/hidden_service
+HiddenServicePort 12345 127.0.0.1:12345
+# Improve anonymity
+UseEntryGuards 1
+NumEntryGuards 4
+# Improve resilience
+CircuitBuildTimeout 60
+LearnCircuitBuildTimeout 1
+MaxCircuitDirtiness 600
+NewCircuitPeriod 300
