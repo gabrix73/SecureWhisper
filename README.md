@@ -1,4 +1,4 @@
-# SecureWhisper a Secure P2P Chat Application
+# SecureWhisper a secure P2P chat application
 A secure P2P chat application with advanced mesh networking capabilities, designed for resilient and private communication.
 ## Key Features
 - Mesh Networking Protocol
