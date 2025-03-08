@@ -1,5 +1,5 @@
-# SecureWhisper
-Una applicazione di chat P2P sicura con capacità di rete mesh avanzate, progettata per una comunicazione resiliente e privata.
+# SecureWhisper a Secure P2P Chat Application
+A secure P2P chat application with advanced mesh networking capabilities, designed for resilient and private communication.
 ## Key Features
 - Mesh Networking Protocol
 - Tor Integration
